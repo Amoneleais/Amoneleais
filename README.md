@@ -1,5 +1,5 @@
 ### Sus, Sus, Sus, Amogus! 😐
- <img align="left" alt="Coding" width="300" src="http://37.media.tumblr.com/beb4213459e17195558741b1e4c1aef9/tumblr_n4fnwsiMb81s2wio8o1_500.gif">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amoneleais&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ <img align="left" alt="Coding" width="350" src="http://37.media.tumblr.com/beb4213459e17195558741b1e4c1aef9/tumblr_n4fnwsiMb81s2wio8o1_500.gif"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amoneleais&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1>Some great songs i've been listening...</h1>
 

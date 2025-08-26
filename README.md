@@ -66,7 +66,7 @@ I'm a passionate **Full Stack Developer** with enthusiasm in developing **JavaSc
 <div align="center">
 
 [![FramegrabAPI](https://github-readme-stats.vercel.app/api/pin/?username=Amoneleais&repo=Framegrab&theme=tokyonight)](https://github.com/Amoneleais/Framegrab)
-[![Animedle]](https://github.com/Amoneleais/animedle-react)
+[![Animedle](https://github-readme-stats.vercel.app/api/pin/?username=Amoneleais&repo=animedle-react&theme=tokyonight)](https://github.com/Amoneleais/animedle-react)
 [![Diamond Player](https://github-readme-stats.vercel.app/api/pin/?username=Amoneleais&repo=diamond-player&theme=tokyonight)](https://github.com/Amoneleais/diamond-player)
 [![Secret Santa Next](https://github-readme-stats.vercel.app/api/pin/?username=Amoneleais&repo=secret-santa-next&theme=tokyonight)](https://github.com/Amoneleais/secret-santa-next)
 

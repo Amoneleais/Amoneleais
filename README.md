@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** with enthusiasm in developing **JavaScript**/**TypeScript** applications. I love crafting efficient, modern web applications and APIs using the latest JavaScript.
+I'm a passionate **Full Stack Developer** with enthusiasm in developing **JavaScript**/**TypeScript** applications. I love crafting efficient, modern web applications and APIs using the latest JavaScript tools.
   
 ## 🛠️ Tech Stack
 
